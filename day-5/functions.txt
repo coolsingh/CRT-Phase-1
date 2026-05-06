@@ -1,0 +1,6 @@
+Types of functions:
+
+1.without argument,without return Types
+2.with argument,without return Types
+3.with argument,with return Types
+4.without argument,with return Types

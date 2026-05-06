@@ -1,0 +1,4 @@
+//pointers is a variable that stores the address of  variable
+//references mpercent&
+
+//format of pointers(int *ptr=&a;)
